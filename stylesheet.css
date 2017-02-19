@@ -26,11 +26,17 @@ a:hover {
 
 }
 
+.words {
+  width: 300px;
+}
 
 .center {
   display: block;
   margin: auto;
-  padding: 125px;
+  margin-top: 150px;
+  width: 300px;
+  text-align: center;
+
 }
 
 .center img {
@@ -42,9 +48,6 @@ a:hover {
 
 }
 
-.center form {
-  margin-left: 240px;
-}
 
 footer {
   position: fixed;
